@@ -1,0 +1,6 @@
+13:17:46.639 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:17:46.662 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+13:17:46.662 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:17:51.366 [main] INFO  c.b.config.BrowserStackConfig - INFO
+13:18:08.261 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+13:18:08.262 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
