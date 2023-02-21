@@ -4,3 +4,9 @@
 13:17:51.366 [main] INFO  c.b.config.BrowserStackConfig - INFO
 13:18:08.261 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
 13:18:08.262 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+18:50:36.774 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:50:36.788 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+18:50:36.789 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:50:38.219 [main] INFO  c.b.config.BrowserStackConfig - INFO
+18:50:54.650 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+18:50:54.650 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
