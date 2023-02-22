@@ -1,5 +1,3 @@
 john
 ton
 hello
-mall
-call
