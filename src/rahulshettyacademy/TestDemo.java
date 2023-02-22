@@ -24,6 +24,8 @@ public class TestDemo {
 		org.testng.Assert.assertTrue(driver.getTitle().matches("Selenium*"));
 		
 		//testing GIT demo
+		
+		//I am adding from infoy laptop
 	}
 	 
 }
